@@ -5,15 +5,15 @@ body {
       rgba(35, 37, 38, 0.75),
       rgba(65, 67, 69, 0.75)
     ),
-    url("../images/eyes.jpg");
+    url("../images/heart-2.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
   width: 100%;
   color: #ffffff;
   font-family: "Caveat", cursive;
-  font-size: 70px;
-  /* margin: 25px 0; */
+  font-size: 90px;
+  margin: 0 0;
   text-align: center;
 }
 
