@@ -5,14 +5,14 @@ body {
       rgba(35, 37, 38, 0.75),
       rgba(65, 67, 69, 0.75)
     ),
-    url("../images/heart-multi.jpg");
+    url("../images/marley-and-me.JPG");
   background-size: cover;
   background-position: center;
   height: 100vh;
   width: 100%;
   color: #ffffff;
   font-family: "Parisienne", cursive;
-  font-size: 96px;
+  font-size: 72px;
   margin: 0 0;
   text-align: center;
 }
