@@ -5,16 +5,17 @@ body {
       rgba(35, 37, 38, 0.75),
       rgba(65, 67, 69, 0.75)
     ),
-    url("../images/pink-heart.jpg");
+    url("../images/spiral-love.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
   width: 100%;
   color: #ffffff;
-  font-family: "Parisienne", cursive;
+  font-family: "Nunito", cursive;
   font-size: 64px;
   margin: 0 0;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .centered {
