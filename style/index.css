@@ -2,17 +2,17 @@ body {
   /* background-image: linear-gradient(to bottom, #bc4e9c, #f80759); */
   background-image: linear-gradient(
       to bottom,
-      rgba(35, 37, 38, 0.80),
-      rgba(65, 67, 69, 0.80)
+      rgba(35, 37, 38, 0.5),
+      rgba(65, 67, 69, 0.5)
     ),
-    url("../images/sunset.jpg");
+    url("../images/very_special.JPG");
   background-size: cover;
   background-position: center;
   height: 100vh;
   width: 100%;
   color: #ffffff;
-  font-family: "Maven Pro", cursive;
-  font-size: 48px;
+  font-family: "Montserrat Alternates", cursive;
+  font-size: 56px;
   margin: 0 0;
   text-align: center;
   text-transform: uppercase;
@@ -20,7 +20,7 @@ body {
 
 .centered {
   position: fixed; /* or absolute */
-  top: 50%;
+  top: 75%;
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
