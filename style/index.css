@@ -5,7 +5,7 @@ body {
       rgba(35, 37, 38, 0.7),
       rgba(65, 67, 69, 0.7)
     ),
-    url("../images/cute.jpg");
+    url("../images/beaut-sinead.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -28,4 +28,8 @@ body {
 
 .small-text {
   font-size: 40px;
+}
+
+.fa-grin-hearts {
+  color: #faa2c1;
 }
