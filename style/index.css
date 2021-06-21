@@ -2,17 +2,17 @@ body {
   /* background-image: linear-gradient(to bottom, #f2709c, #ff9472); */
   background-image: linear-gradient(
       to bottom,
-      rgba(35, 37, 38, 0.8),
-      rgba(65, 67, 69, 0.8)
+      rgba(35, 37, 38, 0.5),
+      rgba(65, 67, 69, 0.5)
     ),
-    url("../images/pouts.jpg");
+    url("../images/black-heart.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
   width: 100%;
   color: #ffffff;
   font-family: "Montserrat Alternates", cursive;
-  font-size: 48px;
+  font-size: 32px;
   margin: 0 0;
   text-align: center;
   text-transform: uppercase;
